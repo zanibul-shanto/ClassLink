@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassLink")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09cc492188fa5dd1e0625ea3175fba7b836b7b4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassLink")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassLink")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
