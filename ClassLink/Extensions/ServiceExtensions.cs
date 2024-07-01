@@ -10,5 +10,10 @@
                     .AllowAnyMethod()
                     .AllowAnyHeader());
             });
+
+        public static void ConfigureIISIntegration(this IServiceCollection services) =>
+             services.Configure<IISOptions>(options =>
+             {
+             });
     }
 }
