@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ClassLink/FileContentIndex/3a85091d-5659-47cd-a7ce-30a740c84f58.vsidx
+/.vs/ClassLink/DesignTimeBuild/.dtbcache.v2
+*.vsidx
