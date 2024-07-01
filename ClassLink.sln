@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLink", "ClassLink\ClassLink.csproj", "{1E460BC7-B199-42D3-A3FA-48171B7756DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E460BC7-B199-42D3-A3FA-48171B7756DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E460BC7-B199-42D3-A3FA-48171B7756DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E460BC7-B199-42D3-A3FA-48171B7756DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E460BC7-B199-42D3-A3FA-48171B7756DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F427FFAD-98B5-42A6-B9DA-3E81FEBFEB52}
+	EndGlobalSection
+EndGlobal
